@@ -1,4 +1,3 @@
-# Islam-Quest
 ### Prayer Guide
 - **Intro**: Be in a state of wudhu + clean from major impurity.
 - **5 Fardh Prayers**
@@ -26,3 +25,31 @@
 - **Belief in the Day of Judgment**
 - **Belief in Qadar (Divine Decree)**
 
+---
+
+### Hadith
+- **What is Hadith?**
+  - Sayings, actions, and approvals of the Prophet Muhammad (PBUH).
+- **Importance**:
+  - Provides guidance on living according to Islamic principles.
+- **Types**:
+  - **Sahih** (authentic), **Hasan** (good), **Da'if** (weak).
+- **Famous Collections**:
+  - **Sahih al-Bukhari**, **Sahih Muslim**, **Sunan Abu Dawood**, **Jami` at-Tirmidhi**.
+
+---
+
+### Life of the Prophet Muhammad (PBUH)
+- **Birth & Early Life**
+- **Prophethood**
+- **Challenges**
+- **Islamic State**
+- **Final Years**
+
+---
+
+### The Qur'an
+- **Structure**
+- **Importance**
+- **Themes**
+- **Recitation**
